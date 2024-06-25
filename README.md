@@ -9,8 +9,11 @@
 ## Моё портфолио:
 ### Тестовая документация:
 ### SQL-запросы:
-### Стек инструментов: 
-![Header](https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/programmer-bug.gif)
+### :hammer_and_wrench: Стек инструментов:
+<div>
+     <img src = "https://raw.githubusercontent.com/Malibragim/Malibragim/main/gif%20and%20icons/Git-Icon-1788C.png" title="Git" alt="Git" width="60" height="60"/> &nbsp;
+</div>
+
 ## Мои контакты:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor)](malikibragimov890@gmail.com)
