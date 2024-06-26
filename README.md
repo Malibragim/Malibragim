@@ -8,9 +8,9 @@
 
 ## Моё портфолио:
 ### Тестовая документация:
-    Отчёт+о+тестировании.docx
-    Отчёты+о+дефектах,+выявленных+в+ходе+тестирования.docx
-    Чек-лист+для+тестирования+сайта.xlsx
+- [Чек-листы](https://github.com/Malibragim/Check-lists.git)
+- [Отчёты об ошибках](https://github.com/Malibragim/Bug-reports.git)
+- [Отчёты о тестировании](https://github.com/Malibragim/Test-report.git)
 ### SQL-запросы:
 ### :hammer_and_wrench: Стек инструментов:
 <div>
