@@ -5,12 +5,12 @@
 Меня зовут Малик Ибрагимов. Эта страница посвящена профессии по тестированию программного обеспечения. Здесь опубликованы примеры моих работ с тестовой документацией.
 
 
-
 ## Моё портфолио:
 ### Тестовая документация:
 - [Чек-листы](https://github.com/Malibragim/Check-lists.git)
 - [Отчёты об ошибках](https://github.com/Malibragim/Bug-reports.git)
 - [Отчёты о тестировании](https://github.com/Malibragim/Test-report.git)
+- [Тест-планы](https://github.com/Malibragim/Test-plans/blob/main/Test%20plan.pdf)
 
 ### :hammer_and_wrench: Стек инструментов:
 <div>
