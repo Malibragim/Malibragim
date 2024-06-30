@@ -10,8 +10,7 @@
 - [Чек-листы](https://github.com/Malibragim/Check-lists.git)
 - [Отчёты об ошибках](https://github.com/Malibragim/Bug-reports.git)
 - [Отчёты о тестировании](https://github.com/Malibragim/Test-report.git)
-- [Тест-планы](https://github.com/Malibragim/Test-plans/blob/main/Test%20plan.pdf)
-
+- [Тест-планы](https://github.com/Malibragim/Test-plans.git)
 ### :hammer_and_wrench: Стек инструментов:
 <div>
      <img src = "https://raw.githubusercontent.com/Malibragim/Malibragim/main/gif%20and%20icons/Git-Icon-1788C.png" title="Git" alt="Git" width="60" height="60"/> &nbsp;
