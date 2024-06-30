@@ -20,6 +20,8 @@
      <img src = 'https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/Postman.png' title = 'Postman' alt = 'Postman' width="60" height="60"/> &nbsp;
      <img src = 'https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/PyCharm_Icon.svg.png' title = 'Pycharm' alt = 'Pycharm' width="60" height="60"/> &nbsp;
      <img src = 'https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/selenium-ide128.png' title = 'Selenium IDE' alt = 'Selenium IDE' width="60" height="60"/> &nbsp;
+     <img src = 'https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/1682257270_papik-pro-p-html-stikeri-vektor-8.png' title = 'Html' alt = 'Html' width="60" height="60"/> &nbsp;
+     <img src = 'https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/4.png' title = 'Devtools' alt = 'Devtools' width="60" height="60"/> &nbsp;
 </div>
 
 ## Мои контакты:
