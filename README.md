@@ -17,6 +17,9 @@
      <img src = "https://raw.githubusercontent.com/Malibragim/Malibragim/main/gif%20and%20icons/Git-Icon-1788C.png" title="Git" alt="Git" width="60" height="60"/> &nbsp;
      <img src = "https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/Jira.png" title="Jira" alt="Jira" width="60" height="60"/> &nbsp;
      <img src = "https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/Octicons-mark-github.svg.png" title = 'Github' alt = 'Github' width="60" height="60"/> &nbsp;
+     <img src = 'https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/Postman.png' title = 'Postman' alt = 'Postman' width="60" height="60"/> &nbsp;
+     <img src = 'https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/PyCharm_Icon.svg.png' title = 'Pycharm' alt = 'Pycharm' width="60" height="60"/> &nbsp;
+     <img src = 'https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/selenium-ide128.png' title = 'Selenium IDE' alt = 'Selenium IDE' width="60" height="60"/> &nbsp;
 </div>
 
 ## Мои контакты:
