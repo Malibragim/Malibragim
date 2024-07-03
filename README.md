@@ -2,7 +2,7 @@
 ![Header](https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/programmer-bug.gif)
 
 ## Обо мне:
-Привет! Меня зовут Малик Ибрагимов. Специализируюсь на тестировании веба и десктопных приложениях. Здесь опубликованы примеры моих работ с тестовой документацией и стэк инструментов, с которым я работал.
+Привет! Меня зовут Малик Ибрагимов. Специализируюсь на тестировании веба и десктопных приложений. Здесь опубликованы примеры моих работ с тестовой документацией и стэк инструментов, с которым я работал.
 
 
 ## Моё портфолио:
@@ -13,6 +13,7 @@
 - [Тест-планы](https://github.com/Malibragim/Test-plans.git)
 ### :hammer_and_wrench: Стек инструментов:
 <div>
+     <img src="https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/python-original.svg" title = 'Python' alt = 'Python' width = '60' height="60"> &nbsp;
      <img src = "https://raw.githubusercontent.com/Malibragim/Malibragim/main/gif%20and%20icons/Git-Icon-1788C.png" title="Git" alt="Git" width="60" height="60"/> &nbsp;
      <img src = "https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/Jira.png" title="Jira" alt="Jira" width="60" height="60"/> &nbsp;
      <img src = "https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/Octicons-mark-github.svg.png" title = 'Github' alt = 'Github' width="60" height="60"/> &nbsp;
@@ -21,6 +22,9 @@
      <img src = 'https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/selenium-ide128.png' title = 'Selenium IDE' alt = 'Selenium IDE' width="60" height="60"/> &nbsp;
      <img src = 'https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/1682257270_papik-pro-p-html-stikeri-vektor-8.png' title = 'Html' alt = 'Html' width="60" height="60"/> &nbsp;
      <img src = 'https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/4.png' title = 'Devtools' alt = 'Devtools' width="60" height="60"/> &nbsp;
+     <img src = 'https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/postgresql-original.svg' title = 'PostgreSQL' alt = 'PostgreSQL' width="60" height="60"/> &nbsp;
+     <img src = 'https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/ubuntu-plain-wordmark.svg' title = 'Ubuntu' alt = 'Ubuntu'  width = '60' height = '60'/> &nbsp;
+     <img src = 'https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20xmind.png' title = 'Xmind' alt = 'Xmind' width = '60' height = '60'/> &nbsp;
 </div>
 
 ## Мои контакты:
