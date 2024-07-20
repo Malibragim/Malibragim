@@ -11,6 +11,15 @@
 - [Отчёты об ошибках](https://github.com/Malibragim/Bug-reports.git)
 - [Отчёты о тестировании](https://github.com/Malibragim/Test-report.git)
 - [Тест-планы](https://github.com/Malibragim/Test-plans.git)
+
+
+### Код на python:
+- [Работа с типами данных](https://colab.research.google.com/drive/1x99j_g5k9BVTJ2ZSiVbUYXnqzE1w9iTE)
+- [Функции, циклы и строки](https://colab.research.google.com/drive/1vrkPqbQv70XgevYp7CZhzeyfiI4-Vkgt)
+
+### SQL-запросы:
+- [Базовые запросы](https://colab.research.google.com/drive/1oJ3CTr63yXlsJkAj-xsmt1BcCQwvmpLX)
+
 ### :hammer_and_wrench: Стек инструментов:
 <div>
      <img src="https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/python-original.svg" title = 'Python' alt = 'Python' width = '60' height="60"> &nbsp;
