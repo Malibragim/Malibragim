@@ -16,7 +16,7 @@
 ### Код на python:
 - [Работа с типами данных](https://colab.research.google.com/drive/1x99j_g5k9BVTJ2ZSiVbUYXnqzE1w9iTE)
 - [Функции, циклы и строки](https://colab.research.google.com/drive/1vrkPqbQv70XgevYp7CZhzeyfiI4-Vkgt)
-- [Автотесты](https://drive.google.com/file/d/1u1ucCYB96cZonXhGifuC0Buc2lYbS08t/view?usp=drive_link)(https://drive.google.com/drive/folders/1wp1hjC_AQpwx6rLR4sUmIpIjqHF_MZbB?usp=drive_link))
+- [Автотесты](https://drive.google.com/file/d/1u1ucCYB96cZonXhGifuC0Buc2lYbS08t/view?usp=drive_link)
 ### SQL-запросы:
 - [Базовые запросы](https://colab.research.google.com/drive/1oJ3CTr63yXlsJkAj-xsmt1BcCQwvmpLX)
 
